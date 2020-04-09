@@ -51,6 +51,8 @@ from .appletrailers import (
     AppleTrailersSectionIE,
 )
 from .archiveorg import ArchiveOrgIE
+from .arhiiverree import ArchiverreeIE
+
 from .arkena import ArkenaIE
 from .ard import (
     ARDBetaMediathekIE,
